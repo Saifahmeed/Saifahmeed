@@ -2,7 +2,10 @@
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
 
-![giphy](https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a4a4fd05-e9cf-4b7e-a955-d4ce789ecbc8)
+<div align="center">
+  <img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a4a4fd05-e9cf-4b7e-a955-d4ce789ecbc8" alt="giphy" width="200"/>
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifahmeed&label=Profile%20views&color=d99600&style=for-the-badge" alt="saifahmeed" /> </p>
 
 - 🔭 I’m currently an intern at ALX Software Engineering 12-month program.
