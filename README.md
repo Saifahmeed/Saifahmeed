@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/saifahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saifahmeed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> 💻 Languages and Tools :</h3>
+<h3 align="left"> 💻 Tech Stack:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -35,6 +35,8 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
+  <a href="https://steveicarus.github.io/iverilog/" target="_blank" rel="noreferrer"><img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a8b24369-3fb8-4cf1-8a2b-0f0046e86173" alt="verilog" width="40" height="40"/></a>
+  <a href="https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer"><img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/b918d36a-bd1e-4b20-9990-00711b17f2aa" alt="assembly" width="40" height="40"/></a>
 </p>
 
 ---
