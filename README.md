@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: In my spare time, I play chess and practice competitive programming.
 
-- 📫 How to reach me **saif_ahmed@aucegypt.edu**
+- 📫 How to reach me: **saif_ahmed@aucegypt.edu**
 ---
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
