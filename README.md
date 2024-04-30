@@ -12,9 +12,9 @@
 
 - 👨‍💻 I’m currently learning Backend Dev.
 
-- 📫 How to reach me **saif_ahmed@aucegypt.edu**
-
 - ⚡ Fun fact: in my spare time, I play chess and do competitive programming.
+
+- 📫 How to reach me **saif_ahmed@aucegypt.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
