@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmed</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
-![giphy](https://github.com/Saifahmeed/Saifahmeed/assets/122873799/bf08cb06-36b2-400b-9a5d-f1bc830b2bae)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifahmeed&label=Profile%20views&color=d99600&style=for-the-badge" alt="saifahmeed" /> </p>
+
+![giphy](https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a4a4fd05-e9cf-4b7e-a955-d4ce789ecbc8)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifahmeed&label=Profile%20views&color=d99600&style=for-the-badge" alt="saifahmeed" /> </p>
 
 - 🔭 I’m currently an intern at ALX Software Engineering 12-month program.
 
@@ -32,4 +33,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saifahmeed&icon=5&color=2)](https://visitcount.itsvg.in)
