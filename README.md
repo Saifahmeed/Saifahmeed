@@ -8,6 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifahmeed&label=Profile%20views&color=d99600&style=for-the-badge" alt="saifahmeed" /> </p>
 
+- 🚀 I’m a Computer Engineering student at AUC, passionate about Full Stack Web Development.
+
 - 🔭 I’m currently an intern at ALX Software Engineering 12-month program.
 
 - 👨‍💻 I’m currently learning Backend Dev.
@@ -24,7 +26,7 @@
 <a href="https://www.leetcode.com/saifahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saifahmeed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> 💻 Tech Stack:</h3>
+<h3 align="left"> 💻 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
