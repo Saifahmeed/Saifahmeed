@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmed</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Saifahmeed&label=Profile%20Views&color=2&icon=2&pretty=false" />
-</a>
 
+[![](https://visitcount.itsvg.in/api?id=Saifahmeed&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently an intern at ALX Software Engineering 12-month program.
 
