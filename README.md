@@ -39,6 +39,7 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer" title="Qt"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
   <a href="https://steveicarus.github.io/iverilog/" target="_blank" rel="noreferrer" title="Verilog"><img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a8b24369-3fb8-4cf1-8a2b-0f0046e86173" alt="verilog" width="40" height="40"/></a>
   <a href="https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer" title="Assembly"><img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/b918d36a-bd1e-4b20-9990-00711b17f2aa" alt="assembly" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://github.com/Saifahmeed/Saifahmeed/assets/122873799/a43bb97d-d98a-45f5-9e47-4815f906efbb" alt="Matplotlib" width="40" height="40"/></a>
 </p>
 
 ---
