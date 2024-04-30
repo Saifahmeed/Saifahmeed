@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmed</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">via GIPHY</a></p>
+![GIF](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifahmeed&label=Profile%20views&color=d99600&style=for-the-badge" alt="saifahmeed" /> </p>
 
 - 🔭 I’m currently an intern at ALX Software Engineering 12-month program.
