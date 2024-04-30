@@ -20,10 +20,10 @@
 ---
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/saifahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saifahmeed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saaif-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saaif-ahmed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saifahmed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saifahmed1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saifahmeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saifahmeed" height="30" width="40" /></a>
+  <a href="https://dev.to/saifahmeed" target="blank" title="Dev.to"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saifahmeed" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saaif-ahmed" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saaif-ahmed" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/saifahmed1" target="blank" title="Codeforces"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saifahmed1" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/saifahmeed" target="blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saifahmeed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 💻 Languages and Tools:</h3>
