@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m currently learning Backend Dev.
 
-- ⚡ Fun fact: In my spare time, I play chess and practice competitive programming.
+- ⚡ Fun fact: In my spare time, I play chess and practise competitive programming.
 
 - 📫 How to reach me: **saif_ahmed@aucegypt.edu**
 ---
