@@ -10,7 +10,7 @@
 
 - 🚀 I’m a Computer Engineering student at AUC, passionate about Full Stack Web Development.
 
-- 🔭 I’m a Former intern at ALX Software Engineering 12-month program.
+- 🔭 I’m an intern at ALX Software Engineering 12-month program.
 
 - 👨‍💻 I’m currently learning Backend Dev.
 
